@@ -1,0 +1,9 @@
+// the Basic Pesudocode for this application
+Pseudocode 
+// PL Format
+SET PI = 3.14;
+SET VAR Radius of cylinder;
+SET VAR Height of cylinder;
+Set VAR Volume = 0;
+Volume = PI * (Radius*Radius)* Height 
+PRINT Volume.
