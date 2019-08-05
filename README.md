@@ -1,2 +1,2 @@
 # Beginner-Projects
-All the Projects for the completly clueless beginner
+// basic projects i made for personal practice and development
