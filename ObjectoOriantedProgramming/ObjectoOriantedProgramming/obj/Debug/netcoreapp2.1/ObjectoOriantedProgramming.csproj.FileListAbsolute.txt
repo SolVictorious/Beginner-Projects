@@ -1,0 +1,11 @@
+C:\Users\fahad\source\repos\ObjectoOriantedProgramming\ObjectoOriantedProgramming\bin\Debug\netcoreapp2.1\ObjectoOriantedProgramming.deps.json
+C:\Users\fahad\source\repos\ObjectoOriantedProgramming\ObjectoOriantedProgramming\bin\Debug\netcoreapp2.1\ObjectoOriantedProgramming.runtimeconfig.json
+C:\Users\fahad\source\repos\ObjectoOriantedProgramming\ObjectoOriantedProgramming\bin\Debug\netcoreapp2.1\ObjectoOriantedProgramming.runtimeconfig.dev.json
+C:\Users\fahad\source\repos\ObjectoOriantedProgramming\ObjectoOriantedProgramming\bin\Debug\netcoreapp2.1\ObjectoOriantedProgramming.dll
+C:\Users\fahad\source\repos\ObjectoOriantedProgramming\ObjectoOriantedProgramming\bin\Debug\netcoreapp2.1\ObjectoOriantedProgramming.pdb
+C:\Users\fahad\source\repos\ObjectoOriantedProgramming\ObjectoOriantedProgramming\obj\Debug\netcoreapp2.1\ObjectoOriantedProgramming.csprojAssemblyReference.cache
+C:\Users\fahad\source\repos\ObjectoOriantedProgramming\ObjectoOriantedProgramming\obj\Debug\netcoreapp2.1\ObjectoOriantedProgramming.csproj.CoreCompileInputs.cache
+C:\Users\fahad\source\repos\ObjectoOriantedProgramming\ObjectoOriantedProgramming\obj\Debug\netcoreapp2.1\ObjectoOriantedProgramming.AssemblyInfoInputs.cache
+C:\Users\fahad\source\repos\ObjectoOriantedProgramming\ObjectoOriantedProgramming\obj\Debug\netcoreapp2.1\ObjectoOriantedProgramming.AssemblyInfo.cs
+C:\Users\fahad\source\repos\ObjectoOriantedProgramming\ObjectoOriantedProgramming\obj\Debug\netcoreapp2.1\ObjectoOriantedProgramming.dll
+C:\Users\fahad\source\repos\ObjectoOriantedProgramming\ObjectoOriantedProgramming\obj\Debug\netcoreapp2.1\ObjectoOriantedProgramming.pdb
